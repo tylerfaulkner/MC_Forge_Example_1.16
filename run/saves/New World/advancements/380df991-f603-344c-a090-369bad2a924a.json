@@ -1,0 +1,16 @@
+{
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2021-09-13 18:19:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-09-22 12:13:32 -0500",
+      "minecraft:forest": "2021-09-13 18:19:32 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}

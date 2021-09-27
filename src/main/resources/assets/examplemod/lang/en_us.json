@@ -1,0 +1,7 @@
+{
+  "item.examplemod.structuregel": "Structure Gel",
+  "block.examplemod.castlewall": "Castle Wall",
+  "enchantment.examplemod.magmawalk" : "Magma Strider",
+  "item.examplemod.tpconnector" : "Teleport Connector",
+  "block.examplemod.tpblock" : "Teleport Block"
+}
